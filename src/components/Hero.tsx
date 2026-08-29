@@ -30,7 +30,7 @@ export default function Hero() {
           <a href="#projects" className="px-6 py-3 bg-blue-600 hover:bg-blue-500 text-white font-medium rounded-lg transition-colors">
             Voir mes projets
           </a>
-          <a href="/cv-abdoul-aziz-ndoye.pdf" download className="flex items-center gap-2 px-6 py-3 bg-slate-800 hover:bg-slate-700 text-white font-medium rounded-lg transition-colors border border-slate-700">
+          <a href="/CV Abdoul Aziz Ndoye.pdf" download className="flex items-center gap-2 px-6 py-3 bg-slate-800 hover:bg-slate-700 text-white font-medium rounded-lg transition-colors border border-slate-700">
             <Download size={18} />
             Télécharger le CV
           </a>
