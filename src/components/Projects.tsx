@@ -9,7 +9,7 @@ const projects = [
     description: "Plateforme de suivi des patients diabétiques, projet de fin d'études. Développement du module de suivi des mesures glycémiques et de l'historique médical, système de prise de rendez-vous avec notifications, tableaux de bord d'indicateurs de santé, et gestion des accès par profil utilisateur.",
     tags: ['Java 21', 'Spring Boot', 'Spring Cloud', 'React', 'PostgreSQL', 'Docker', 'CI/CD'],
     featured: true,
-    github: 'https://github.com/azizndoye68',
+    github: 'https://github.com/azizndoye68/plateforme-diabetique',
   },
   {
     title: 'Gestion des Notes Étudiants',
