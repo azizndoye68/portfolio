@@ -41,7 +41,7 @@ export default function Contact() {
             </div>
             <div>
               <p className="text-white font-medium text-sm">Localisation</p>
-              <p className="text-slate-400 text-xs mt-1">Ziguinchor, Sénégal</p>
+              <p className="text-slate-400 text-xs mt-1">Dakar, Sénégal</p>
             </div>
           </div>
         </motion.div>
