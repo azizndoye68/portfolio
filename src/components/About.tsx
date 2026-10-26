@@ -12,8 +12,13 @@ export default function About() {
 
         <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.1 }} className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 md:p-10">
           <p className="text-slate-300 text-lg leading-relaxed mb-8">
-            Développeur Fullstack titulaire d'un Master en Génie Logiciel de l'Université Assane Seck de Ziguinchor, je conçois et développe des applications web complètes, du backend (Spring Boot, API REST) au frontend (React), avec une expertise en architecture microservices et bases de données relationnelles. Je recherche un poste où mettre en œuvre ces compétences sur des projets concrets.
-          </p>
+Titulaire d’un Master en Génie Logiciel de l’Université Assane Seck de Ziguinchor, je suis développeur Full Stack junior, passionné par la conception et le développement d’applications web robustes, évolutives et sécurisées.
+
+Je travaille principalement avec **Java, Spring Boot et les architectures microservices côté backend**, ainsi qu’avec **React et Angular côté frontend**. Je maîtrise également la conception d’API REST, la gestion de bases de données relationnelles avec PostgreSQL et MySQL, ainsi que les outils de développement comme Git et Docker.
+
+À travers mes projets, notamment une plateforme de suivi des patients diabétiques et une application e-commerce, j’ai développé une approche axée sur la qualité du code, la sécurité, les tests et la fiabilité des applications.
+
+Curieux, rigoureux et toujours désireux d’apprendre, je souhaite rejoindre une équipe dynamique pour contribuer à des projets concrets, approfondir mes compétences et concevoir des solutions numériques répondant à de réels besoins.          </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 pt-6 border-t border-slate-800">
             <div className="flex items-start gap-3">
