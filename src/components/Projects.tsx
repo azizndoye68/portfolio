@@ -12,6 +12,14 @@ const projects = [
     github: 'https://github.com/azizndoye68/plateforme-diabetique',
   },
   {
+    title: 'Site de Vente en Ligne',
+    period: '2021 – 2022',
+    description: 'Site de vente de produits de transformation : gestion du catalogue, des comptes clients, suivi des commandes et des ventes, gestion des stocks et de la disponibilité des produits.',
+    tags: ['Java', 'Bases de données', 'Web'],
+    featured: false,
+    github: 'https://github.com/azizndoye68/ecommerce',
+  },
+  {
     title: 'Gestion des Notes Étudiants',
     period: '2022 – 2023',
     description: 'Projet académique en base de données avancée : implémentation de contraintes d\'intégrité, requêtes SQL avancées, procédures stockées et fonctions pour le calcul automatique des moyennes, triggers pour la validation des notes.',
@@ -19,14 +27,7 @@ const projects = [
     featured: false,
     github: 'https://github.com/azizndoye68',
   },
-  {
-    title: 'Site de Vente en Ligne',
-    period: '2021 – 2022',
-    description: 'Site de vente de produits de transformation : gestion du catalogue, des comptes clients, suivi des commandes et des ventes, gestion des stocks et de la disponibilité des produits.',
-    tags: ['Java', 'Bases de données', 'Web'],
-    featured: false,
-    github: 'https://github.com/azizndoye68',
-  },
+  
 ]
 
 export default function Projects() {
